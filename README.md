@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Hyderabad, India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href =https://www.linkedin.com/in/ramanuja-maringanti-5546a4335> linked in </a>
+<a href =https://www.linkedin.com/in/ramanuja-maringanti-5546a4335> LinkedIn </a>
 <p align="left">
 </p>
 
